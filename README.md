@@ -1,0 +1,2 @@
+# SqlConnectCsharp
+training to sql
